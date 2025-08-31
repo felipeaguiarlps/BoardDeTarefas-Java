@@ -6,11 +6,9 @@
 
 # Permite organizar tarefas em diferentes estados e movimentá-las entre eles.
 
-# 
 
 ## 📌 Funcionalidades
 
-# 
 
 # - Criação de tarefas.
 
@@ -30,7 +28,7 @@
 
 # \- Visualização clara do fluxo de trabalho.
 
-# 
+## Objetivo
 
 # Facilitar o gerenciamento de atividades de forma visual e intuitiva, permitindo que os usuários acompanhem o progresso das tarefas de forma organizada.
 
