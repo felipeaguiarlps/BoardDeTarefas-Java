@@ -1,4 +1,4 @@
-# \# Board de Tarefas
+## Board de Tarefas
 
 # 
 
@@ -8,13 +8,13 @@
 
 # 
 
-# \## 📌 Funcionalidades
+## 📌 Funcionalidades
 
 # 
 
-# \- Criação de tarefas.
+# - Criação de tarefas.
 
-# \- Organização das tarefas em colunas de status:
+# - Organização das tarefas em colunas de status:
 
 # &nbsp; - \*\*Inicial\*\*
 
@@ -29,10 +29,6 @@
 # \- Movimentação de tarefas entre os estados.
 
 # \- Visualização clara do fluxo de trabalho.
-
-# 
-
-# \## 🚀 Objetivo do Projeto
 
 # 
 
